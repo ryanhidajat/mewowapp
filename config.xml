@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.mewowapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hello World</name>
+    <name>Mewow App</name>
     <description>
         Mewow Apps
     </description>
     <author email="insomni4k5@gmail.com" href="http://dewitech.com">
-        PhoneGap Team
+        Dewitech
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
